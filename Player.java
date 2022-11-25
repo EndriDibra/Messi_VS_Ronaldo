@@ -85,7 +85,7 @@ public class Player {
 
         //initializing parameters for our player_1
 
-        System.out.println("Please insert the name, surname, id and team of player_1");
+        System.out.println("Please insert the name, surname, id and team of player_1 (Of Messi)");
 
         String name1 = input.next();
         String surname1 = input.next();
@@ -95,7 +95,7 @@ public class Player {
         
         //initializing parameters for our player_1
 
-        System.out.println("Please now insert the name, surname, id and team of player_2");
+        System.out.println("Please now insert the name, surname, id and team of player_2 (Of Ronaldo)");
 
         String name2 = input.next();
         String surname2 = input.next();
