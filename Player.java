@@ -71,7 +71,7 @@ public class Player {
 
 
     // main() definition
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         
         
         // greeting the user
